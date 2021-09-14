@@ -1,11 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "I1vMB1+g24nezofC2G0JYhTmAs4E1H02EoDIN9Xhkpgod8pOzt21TsjgsDAd4pn6pHUbwDBd3lJoIfseKypdBg==",
+  "dgSpecHash": "8yllotJ47SJ20GvuZzWtnhxrycNXqo+4RJFK1B2WxVaepzq8Fz3+eGPqKNfldeQDO87OLrZHPN2QZ/bJBrTDTA==",
   "success": true,
-  "projectFilePath": "C:\\Hospitalizacion\\HospiEnCasa.App\\HospiEnCasa.App.Dominio\\HospiEnCasa.App.Dominio.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\maria\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\maria\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
-  ],
+  "projectFilePath": "G:\\Mi unidad\\1 MARIANA\\MisionTIC2022\\DesarrolloSofware-Ciclo3\\Hospitalizacion\\HospiEnCasa.App\\HospiEnCasa.App.Dominio\\HospiEnCasa.App.Dominio.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

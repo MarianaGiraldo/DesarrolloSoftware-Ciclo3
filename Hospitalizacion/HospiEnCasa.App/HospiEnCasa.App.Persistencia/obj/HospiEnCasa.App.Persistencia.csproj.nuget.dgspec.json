@@ -1,29 +1,29 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Hospitalizacion\\HospiEnCasa.App\\HospiEnCasa.App.Persistencia\\HospiEnCasa.App.Persistencia.csproj": {}
+    "G:\\Mi unidad\\1 MARIANA\\MisionTIC2022\\DesarrolloSofware-Ciclo3\\Hospitalizacion\\HospiEnCasa.App\\HospiEnCasa.App.Persistencia\\HospiEnCasa.App.Persistencia.csproj": {}
   },
   "projects": {
-    "C:\\Hospitalizacion\\HospiEnCasa.App\\HospiEnCasa.App.Persistencia\\HospiEnCasa.App.Persistencia.csproj": {
+    "G:\\Mi unidad\\1 MARIANA\\MisionTIC2022\\DesarrolloSofware-Ciclo3\\Hospitalizacion\\HospiEnCasa.App\\HospiEnCasa.App.Dominio\\HospiEnCasa.App.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Hospitalizacion\\HospiEnCasa.App\\HospiEnCasa.App.Persistencia\\HospiEnCasa.App.Persistencia.csproj",
-        "projectName": "HospiEnCasa.App.Persistencia",
-        "projectPath": "C:\\Hospitalizacion\\HospiEnCasa.App\\HospiEnCasa.App.Persistencia\\HospiEnCasa.App.Persistencia.csproj",
+        "projectUniqueName": "G:\\Mi unidad\\1 MARIANA\\MisionTIC2022\\DesarrolloSofware-Ciclo3\\Hospitalizacion\\HospiEnCasa.App\\HospiEnCasa.App.Dominio\\HospiEnCasa.App.Dominio.csproj",
+        "projectName": "HospiEnCasa.App.Dominio",
+        "projectPath": "G:\\Mi unidad\\1 MARIANA\\MisionTIC2022\\DesarrolloSofware-Ciclo3\\Hospitalizacion\\HospiEnCasa.App\\HospiEnCasa.App.Dominio\\HospiEnCasa.App.Dominio.csproj",
         "packagesPath": "C:\\Users\\maria\\.nuget\\packages\\",
-        "outputPath": "C:\\Hospitalizacion\\HospiEnCasa.App\\HospiEnCasa.App.Persistencia\\obj\\",
+        "outputPath": "G:\\Mi unidad\\1 MARIANA\\MisionTIC2022\\DesarrolloSofware-Ciclo3\\Hospitalizacion\\HospiEnCasa.App\\HospiEnCasa.App.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\maria\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "netstandard2.0"
+          "netstandard2.1"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netstandard2.0": {
+          "netstandard2.1": {
             "projectReferences": {}
           }
         },
@@ -34,13 +34,81 @@
         }
       },
       "frameworks": {
-        "netstandard2.0": {
-          "dependencies": {
+        "netstandard2.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
             "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.412\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\Mi unidad\\1 MARIANA\\MisionTIC2022\\DesarrolloSofware-Ciclo3\\Hospitalizacion\\HospiEnCasa.App\\HospiEnCasa.App.Persistencia\\HospiEnCasa.App.Persistencia.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\Mi unidad\\1 MARIANA\\MisionTIC2022\\DesarrolloSofware-Ciclo3\\Hospitalizacion\\HospiEnCasa.App\\HospiEnCasa.App.Persistencia\\HospiEnCasa.App.Persistencia.csproj",
+        "projectName": "HospiEnCasa.App.Persistencia",
+        "projectPath": "G:\\Mi unidad\\1 MARIANA\\MisionTIC2022\\DesarrolloSofware-Ciclo3\\Hospitalizacion\\HospiEnCasa.App\\HospiEnCasa.App.Persistencia\\HospiEnCasa.App.Persistencia.csproj",
+        "packagesPath": "C:\\Users\\maria\\.nuget\\packages\\",
+        "outputPath": "G:\\Mi unidad\\1 MARIANA\\MisionTIC2022\\DesarrolloSofware-Ciclo3\\Hospitalizacion\\HospiEnCasa.App\\HospiEnCasa.App.Persistencia\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\maria\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "G:\\Mi unidad\\1 MARIANA\\MisionTIC2022\\DesarrolloSofware-Ciclo3\\Hospitalizacion\\HospiEnCasa.App\\HospiEnCasa.App.Dominio\\HospiEnCasa.App.Dominio.csproj": {
+                "projectPath": "G:\\Mi unidad\\1 MARIANA\\MisionTIC2022\\DesarrolloSofware-Ciclo3\\Hospitalizacion\\HospiEnCasa.App\\HospiEnCasa.App.Dominio\\HospiEnCasa.App.Dominio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[2.0.3, )",
-              "autoReferenced": true
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0, )"
             }
           },
           "imports": [
@@ -53,6 +121,11 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.412\\RuntimeIdentifierGraph.json"
         }
       }
