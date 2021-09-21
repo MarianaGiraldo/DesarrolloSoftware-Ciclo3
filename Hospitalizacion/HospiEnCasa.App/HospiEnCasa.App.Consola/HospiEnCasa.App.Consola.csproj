@@ -4,9 +4,10 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="5.0.0"/>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="5.0.0" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\HospiEnCasa.App.Persistencia\HospiEnCasa.App.Persistencia.csproj"/>
+    <ProjectReference Include="..\HospiEnCasa.App.Persistencia\HospiEnCasa.App.Persistencia.csproj" />
+    <ProjectReference Include="..\HospiEnCasa.App.Dominio\HospiEnCasa.App.Dominio.csproj" />
   </ItemGroup>
 </Project>

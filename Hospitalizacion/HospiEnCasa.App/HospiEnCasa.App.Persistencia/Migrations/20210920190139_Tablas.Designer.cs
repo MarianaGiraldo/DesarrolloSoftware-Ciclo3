@@ -10,7 +10,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace HospiEnCasa.App.Persistencia.Migrations
 {
     [DbContext(typeof(AppContext))]
-    [Migration("20210920165223_Tablas")]
+    [Migration("20210920190139_Tablas")]
     partial class Tablas
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
