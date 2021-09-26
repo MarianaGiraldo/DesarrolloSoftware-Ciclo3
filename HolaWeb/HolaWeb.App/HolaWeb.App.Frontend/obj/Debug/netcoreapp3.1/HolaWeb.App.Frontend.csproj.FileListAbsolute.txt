@@ -1,6 +1,5 @@
 G:\Mi unidad\1 MARIANA\MisionTIC2022\DesarrolloSofware-Ciclo3\HolaWeb\HolaWeb.App\HolaWeb.App.Frontend\bin\Debug\netcoreapp3.1\appsettings.Development.json
 G:\Mi unidad\1 MARIANA\MisionTIC2022\DesarrolloSofware-Ciclo3\HolaWeb\HolaWeb.App\HolaWeb.App.Frontend\bin\Debug\netcoreapp3.1\appsettings.json
-G:\Mi unidad\1 MARIANA\MisionTIC2022\DesarrolloSofware-Ciclo3\HolaWeb\HolaWeb.App\HolaWeb.App.Frontend\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 G:\Mi unidad\1 MARIANA\MisionTIC2022\DesarrolloSofware-Ciclo3\HolaWeb\HolaWeb.App\HolaWeb.App.Frontend\bin\Debug\netcoreapp3.1\HolaWeb.App.Frontend.exe
 G:\Mi unidad\1 MARIANA\MisionTIC2022\DesarrolloSofware-Ciclo3\HolaWeb\HolaWeb.App\HolaWeb.App.Frontend\bin\Debug\netcoreapp3.1\HolaWeb.App.Frontend.deps.json
 G:\Mi unidad\1 MARIANA\MisionTIC2022\DesarrolloSofware-Ciclo3\HolaWeb\HolaWeb.App\HolaWeb.App.Frontend\bin\Debug\netcoreapp3.1\HolaWeb.App.Frontend.runtimeconfig.json
@@ -9,7 +8,6 @@ G:\Mi unidad\1 MARIANA\MisionTIC2022\DesarrolloSofware-Ciclo3\HolaWeb\HolaWeb.Ap
 G:\Mi unidad\1 MARIANA\MisionTIC2022\DesarrolloSofware-Ciclo3\HolaWeb\HolaWeb.App\HolaWeb.App.Frontend\bin\Debug\netcoreapp3.1\HolaWeb.App.Frontend.pdb
 G:\Mi unidad\1 MARIANA\MisionTIC2022\DesarrolloSofware-Ciclo3\HolaWeb\HolaWeb.App\HolaWeb.App.Frontend\bin\Debug\netcoreapp3.1\HolaWeb.App.Frontend.Views.dll
 G:\Mi unidad\1 MARIANA\MisionTIC2022\DesarrolloSofware-Ciclo3\HolaWeb\HolaWeb.App\HolaWeb.App.Frontend\bin\Debug\netcoreapp3.1\HolaWeb.App.Frontend.Views.pdb
-G:\Mi unidad\1 MARIANA\MisionTIC2022\DesarrolloSofware-Ciclo3\HolaWeb\HolaWeb.App\HolaWeb.App.Frontend\obj\Debug\netcoreapp3.1\HolaWeb.App.Frontend.csprojAssemblyReference.cache
 G:\Mi unidad\1 MARIANA\MisionTIC2022\DesarrolloSofware-Ciclo3\HolaWeb\HolaWeb.App\HolaWeb.App.Frontend\obj\Debug\netcoreapp3.1\HolaWeb.App.Frontend.AssemblyInfoInputs.cache
 G:\Mi unidad\1 MARIANA\MisionTIC2022\DesarrolloSofware-Ciclo3\HolaWeb\HolaWeb.App\HolaWeb.App.Frontend\obj\Debug\netcoreapp3.1\HolaWeb.App.Frontend.AssemblyInfo.cs
 G:\Mi unidad\1 MARIANA\MisionTIC2022\DesarrolloSofware-Ciclo3\HolaWeb\HolaWeb.App\HolaWeb.App.Frontend\obj\Debug\netcoreapp3.1\HolaWeb.App.Frontend.csproj.CoreCompileInputs.cache
@@ -35,3 +33,7 @@ G:\Mi unidad\1 MARIANA\MisionTIC2022\DesarrolloSofware-Ciclo3\HolaWeb\HolaWeb.Ap
 G:\Mi unidad\1 MARIANA\MisionTIC2022\DesarrolloSofware-Ciclo3\HolaWeb\HolaWeb.App\HolaWeb.App.Frontend\obj\Debug\netcoreapp3.1\HolaWeb.App.Frontend.pdb
 G:\Mi unidad\1 MARIANA\MisionTIC2022\DesarrolloSofware-Ciclo3\HolaWeb\HolaWeb.App\HolaWeb.App.Frontend\obj\Debug\netcoreapp3.1\HolaWeb.App.Frontend.genruntimeconfig.cache
 G:\Mi unidad\1 MARIANA\MisionTIC2022\DesarrolloSofware-Ciclo3\HolaWeb\HolaWeb.App\HolaWeb.App.Frontend\obj\Debug\netcoreapp3.1\HolaWeb.App.Frontend.csproj.CopyComplete
+G:\Mi unidad\1 MARIANA\MisionTIC2022\DesarrolloSofware-Ciclo3\HolaWeb\HolaWeb.App\HolaWeb.App.Frontend\obj\Debug\netcoreapp3.1\HolaWeb.App.Frontend.csproj.AssemblyReference.cache
+G:\Mi unidad\1 MARIANA\MisionTIC2022\DesarrolloSofware-Ciclo3\HolaWeb\HolaWeb.App\HolaWeb.App.Frontend\obj\Debug\netcoreapp3.1\HolaWeb.App.Frontend.GeneratedMSBuildEditorConfig.editorconfig
+G:\Mi unidad\1 MARIANA\MisionTIC2022\DesarrolloSofware-Ciclo3\HolaWeb\HolaWeb.App\HolaWeb.App.Frontend\obj\Debug\netcoreapp3.1\scopedcss\bundle\HolaWeb.App.Frontend.styles.css
+G:\Mi unidad\1 MARIANA\MisionTIC2022\DesarrolloSofware-Ciclo3\HolaWeb\HolaWeb.App\HolaWeb.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Saludos\List.cshtml.g.cs
