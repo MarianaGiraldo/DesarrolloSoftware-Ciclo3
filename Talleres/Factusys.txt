@@ -1,0 +1,16 @@
+
+Sistema Factusys:
+
+El grupo "Los Phytones" Misión TIC se propone a desarrollar una solución requerida por un centro 
+comercial de la ciudad, para diseñar un sistema de información que permita hacer el registro de 
+las facturas de las compras efectuadas por los clientes del lugar, llevando un control de las 
+ventas en los establecimientos, con el fin de implementar estrategias comerciales y de mercadeo, 
+que optimicen la operación de posicionamiento como líder o lugar preferido de sus habitantes. 
+Así mismo se tiene la idea por parte de la administración, incentivar a sus clientes, realizando 
+un sorteo de un premio por las compras efectuadas durante un periodo de tiempo establecido, con 
+la incitación para que se registren las compras efectuadas a través de una apliación en punto de 
+información, donde las personas llevan sus facturas y se registran con el encargado, suministrando 
+sus datos personales, como nombre, documento de identidad, teléfono, correo electrónico, fecha de 
+nacimiento y la tirilla de pago del almacén donde se efectuó, con lo cual participa recibiendo un 
+número asignado por cada $ 70.000 en compras acumuladas, obteniendo doble puntaje entre semana.
+
