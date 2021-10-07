@@ -1,4 +1,3 @@
-G:\Mi unidad\1 MARIANA\MisionTIC2022\DesarrolloSofware-Ciclo3\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Persistencia\obj\Debug\netstandard2.1\HospiEnCasa.App.Persistencia.csprojAssemblyReference.cache
 G:\Mi unidad\1 MARIANA\MisionTIC2022\DesarrolloSofware-Ciclo3\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Persistencia\obj\Debug\netstandard2.1\HospiEnCasa.App.Persistencia.AssemblyInfoInputs.cache
 G:\Mi unidad\1 MARIANA\MisionTIC2022\DesarrolloSofware-Ciclo3\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Persistencia\obj\Debug\netstandard2.1\HospiEnCasa.App.Persistencia.AssemblyInfo.cs
 G:\Mi unidad\1 MARIANA\MisionTIC2022\DesarrolloSofware-Ciclo3\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Persistencia\obj\Debug\netstandard2.1\HospiEnCasa.App.Persistencia.csproj.CoreCompileInputs.cache
@@ -10,3 +9,5 @@ G:\Mi unidad\1 MARIANA\MisionTIC2022\DesarrolloSofware-Ciclo3\Hospitalizacion\Ho
 G:\Mi unidad\1 MARIANA\MisionTIC2022\DesarrolloSofware-Ciclo3\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Persistencia\obj\Debug\netstandard2.1\HospiEnCasa.App.Persistencia.csproj.CopyComplete
 G:\Mi unidad\1 MARIANA\MisionTIC2022\DesarrolloSofware-Ciclo3\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Persistencia\obj\Debug\netstandard2.1\HospiEnCasa.App.Persistencia.dll
 G:\Mi unidad\1 MARIANA\MisionTIC2022\DesarrolloSofware-Ciclo3\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Persistencia\obj\Debug\netstandard2.1\HospiEnCasa.App.Persistencia.pdb
+G:\Mi unidad\1 MARIANA\MisionTIC2022\DesarrolloSofware-Ciclo3\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Persistencia\obj\Debug\netstandard2.1\HospiEnCasa.App.Persistencia.csproj.AssemblyReference.cache
+G:\Mi unidad\1 MARIANA\MisionTIC2022\DesarrolloSofware-Ciclo3\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Persistencia\obj\Debug\netstandard2.1\HospiEnCasa.App.Persistencia.GeneratedMSBuildEditorConfig.editorconfig

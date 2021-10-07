@@ -25,7 +25,7 @@ namespace HospiEnCasa.App.Dominio
         /// <summary>
         ///  Referencia a la lista de signos vitales de un Paciente 
         /// </summary>
-        /// <value></value>
+        /// <value>SignosVitales</value>
         public System.Collections.Generic.List<SignoVital> SignosVitales { get; set; }
     }
 }

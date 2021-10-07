@@ -1,4 +1,3 @@
-G:\Mi unidad\1 MARIANA\MisionTIC2022\DesarrolloSofware-Ciclo3\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Dominio\obj\Debug\netstandard2.1\HospiEnCasa.App.Dominio.csprojAssemblyReference.cache
 G:\Mi unidad\1 MARIANA\MisionTIC2022\DesarrolloSofware-Ciclo3\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Dominio\obj\Debug\netstandard2.1\HospiEnCasa.App.Dominio.AssemblyInfoInputs.cache
 G:\Mi unidad\1 MARIANA\MisionTIC2022\DesarrolloSofware-Ciclo3\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Dominio\obj\Debug\netstandard2.1\HospiEnCasa.App.Dominio.AssemblyInfo.cs
 G:\Mi unidad\1 MARIANA\MisionTIC2022\DesarrolloSofware-Ciclo3\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Dominio\obj\Debug\netstandard2.1\HospiEnCasa.App.Dominio.csproj.CoreCompileInputs.cache
@@ -7,3 +6,5 @@ G:\Mi unidad\1 MARIANA\MisionTIC2022\DesarrolloSofware-Ciclo3\Hospitalizacion\Ho
 G:\Mi unidad\1 MARIANA\MisionTIC2022\DesarrolloSofware-Ciclo3\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Dominio\bin\Debug\netstandard2.1\HospiEnCasa.App.Dominio.pdb
 G:\Mi unidad\1 MARIANA\MisionTIC2022\DesarrolloSofware-Ciclo3\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Dominio\obj\Debug\netstandard2.1\HospiEnCasa.App.Dominio.dll
 G:\Mi unidad\1 MARIANA\MisionTIC2022\DesarrolloSofware-Ciclo3\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Dominio\obj\Debug\netstandard2.1\HospiEnCasa.App.Dominio.pdb
+G:\Mi unidad\1 MARIANA\MisionTIC2022\DesarrolloSofware-Ciclo3\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Dominio\obj\Debug\netstandard2.1\HospiEnCasa.App.Dominio.csproj.AssemblyReference.cache
+G:\Mi unidad\1 MARIANA\MisionTIC2022\DesarrolloSofware-Ciclo3\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Dominio\obj\Debug\netstandard2.1\HospiEnCasa.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig

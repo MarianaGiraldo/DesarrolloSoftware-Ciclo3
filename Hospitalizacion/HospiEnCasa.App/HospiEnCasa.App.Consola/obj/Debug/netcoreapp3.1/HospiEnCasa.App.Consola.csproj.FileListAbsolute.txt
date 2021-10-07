@@ -58,7 +58,6 @@ G:\Mi unidad\1 MARIANA\MisionTIC2022\DesarrolloSofware-Ciclo3\Hospitalizacion\Ho
 G:\Mi unidad\1 MARIANA\MisionTIC2022\DesarrolloSofware-Ciclo3\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\HospiEnCasa.App.Persistencia.dll
 G:\Mi unidad\1 MARIANA\MisionTIC2022\DesarrolloSofware-Ciclo3\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\HospiEnCasa.App.Persistencia.pdb
 G:\Mi unidad\1 MARIANA\MisionTIC2022\DesarrolloSofware-Ciclo3\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\HospiEnCasa.App.Dominio.pdb
-G:\Mi unidad\1 MARIANA\MisionTIC2022\DesarrolloSofware-Ciclo3\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\obj\Debug\netcoreapp3.1\HospiEnCasa.App.Consola.csprojAssemblyReference.cache
 G:\Mi unidad\1 MARIANA\MisionTIC2022\DesarrolloSofware-Ciclo3\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\obj\Debug\netcoreapp3.1\HospiEnCasa.App.Consola.AssemblyInfoInputs.cache
 G:\Mi unidad\1 MARIANA\MisionTIC2022\DesarrolloSofware-Ciclo3\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\obj\Debug\netcoreapp3.1\HospiEnCasa.App.Consola.AssemblyInfo.cs
 G:\Mi unidad\1 MARIANA\MisionTIC2022\DesarrolloSofware-Ciclo3\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\obj\Debug\netcoreapp3.1\HospiEnCasa.App.Consola.csproj.CoreCompileInputs.cache
@@ -66,3 +65,5 @@ G:\Mi unidad\1 MARIANA\MisionTIC2022\DesarrolloSofware-Ciclo3\Hospitalizacion\Ho
 G:\Mi unidad\1 MARIANA\MisionTIC2022\DesarrolloSofware-Ciclo3\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\obj\Debug\netcoreapp3.1\HospiEnCasa.App.Consola.dll
 G:\Mi unidad\1 MARIANA\MisionTIC2022\DesarrolloSofware-Ciclo3\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\obj\Debug\netcoreapp3.1\HospiEnCasa.App.Consola.pdb
 G:\Mi unidad\1 MARIANA\MisionTIC2022\DesarrolloSofware-Ciclo3\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\obj\Debug\netcoreapp3.1\HospiEnCasa.App.Consola.genruntimeconfig.cache
+G:\Mi unidad\1 MARIANA\MisionTIC2022\DesarrolloSofware-Ciclo3\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\obj\Debug\netcoreapp3.1\HospiEnCasa.App.Consola.csproj.AssemblyReference.cache
+G:\Mi unidad\1 MARIANA\MisionTIC2022\DesarrolloSofware-Ciclo3\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\obj\Debug\netcoreapp3.1\HospiEnCasa.App.Consola.GeneratedMSBuildEditorConfig.editorconfig

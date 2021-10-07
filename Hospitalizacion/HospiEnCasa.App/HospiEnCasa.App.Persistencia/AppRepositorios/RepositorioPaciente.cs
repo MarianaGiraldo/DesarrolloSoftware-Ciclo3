@@ -33,6 +33,20 @@ namespace HospiEnCasa.App.Persistencia
             if(pacienteEncontrado != null)
             {
                 pacienteEncontrado.Nombre = paciente.Nombre;
+                pacienteEncontrado.Apellidos = paciente.Apellidos;
+                pacienteEncontrado.NumeroTelefono = paciente.NumeroTelefono;
+                pacienteEncontrado.Genero = paciente.Genero;
+                pacienteEncontrado.Direccion = paciente.Direccion;
+                pacienteEncontrado.Latitud = paciente.Latitud;
+                pacienteEncontrado.Longitud = paciente.Longitud;
+                pacienteEncontrado.Ciudad = paciente.Ciudad;
+                pacienteEncontrado.Apellidos = paciente.Apellidos;
+                pacienteEncontrado.FechaNacimiento = paciente.FechaNacimiento;
+                pacienteEncontrado.Familiar = paciente.Familiar;
+                pacienteEncontrado.Enfermera = paciente.Enfermera;
+                pacienteEncontrado.Medico = paciente.Medico;
+                pacienteEncontrado.Historia = paciente.Historia;
+                pacienteEncontrado.SignosVitales = paciente.SignosVitales;
                 _appContext.SaveChanges();
             }
             return pacienteEncontrado;
@@ -70,7 +84,12 @@ namespace HospiEnCasa.App.Persistencia
             return medicoEncontrado;
         }
         return null;
+        }
 
+        IEnumerable<Paciente> IRepositorioPaciente.GetPacientesporGenero(int generoFiltro)
+        {
+            Genero genero = generoFiltro == 0 ? Genero.Masculino : Genero.Femenino;
+            return _appContext.Pacientes.Where(p => p.Genero == genero).ToList();
         }
     }
 }
