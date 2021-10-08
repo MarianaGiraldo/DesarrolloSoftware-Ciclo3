@@ -91,5 +91,12 @@ namespace HospiEnCasa.App.Persistencia
             Genero genero = generoFiltro == 0 ? Genero.Masculino : Genero.Femenino;
             return _appContext.Pacientes.Where(p => p.Genero == genero).ToList();
         }
+
+        IEnumerable<Paciente> IRepositorioPaciente.GetPacientesCorazon()
+        {
+            return _appContext.Pacientes
+                                .Where(p => p.SignosVitales.Any(s => TipoSigno.FrecuenciaCardica == s.Signo && s.Valor >=90) )
+                                .ToList();
+        }
     }
 }

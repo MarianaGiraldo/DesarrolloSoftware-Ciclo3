@@ -12,7 +12,9 @@ namespace HospiEnCasa.App.Consola
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World Entity Framework!");
-            ListarPacientePorGenero(0);
+            AddPacienteConSignos();
+            ListarPacientesCorazon();
+            //ListarPacientePorGenero(0);
             // AddPacienteConSignos();
             //AddSignosVitales(1);
             // AddPaciente();
@@ -38,8 +40,8 @@ namespace HospiEnCasa.App.Consola
         private static void AddPacienteConSignos()
         {
             var paciente = new Paciente{
-                Nombre = "Paula",
-                Apellidos = "Patiño",
+                Nombre = "Carmensa",
+                Apellidos = "Gomez",
                 NumeroTelefono = "3016589764",
                 Genero = Genero.Femenino,
                 Direccion = "Calle 94 No 7-11",
@@ -50,7 +52,7 @@ namespace HospiEnCasa.App.Consola
                 SignosVitales = new List<SignoVital> {
                     new SignoVital{FechaHora = new DateTime (2021, 10, 06, 22, 05, 00), Valor = 36, Signo = TipoSigno.TemperaturaCorporal},
                     new SignoVital{FechaHora = new DateTime (2021, 10, 06, 22, 05, 00), Valor = 95, Signo = TipoSigno.SaturacionOxigeno},
-                    new SignoVital{FechaHora = new DateTime (2021, 10, 06, 22, 05, 00), Valor = 86, Signo = TipoSigno.FrecuenciaCardica}
+                    new SignoVital{FechaHora = new DateTime (2021, 10, 06, 22, 05, 00), Valor = 95, Signo = TipoSigno.FrecuenciaCardica}
                 }
             };
             _repoPaciente.AddPaciente(paciente);
@@ -95,5 +97,13 @@ namespace HospiEnCasa.App.Consola
             }
         }
 
+        private static void ListarPacientesCorazon()
+        {
+            var pacientesH = _repoPaciente.GetPacientesCorazon();
+            foreach (Paciente p in pacientesH)
+            {
+                Console.WriteLine(p.Nombre + " " + p.Apellidos);
+            }
+        }
     }
 }
